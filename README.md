@@ -5,7 +5,7 @@
 Title: Smart Trading Assistant-Eland
 
 The Smart Trading Assistant is a comprehensive iOS application designed to help traders monitor market quotes, receive notifications on ideal entry points, automate trades based on their trading strategies, and manage risk according to their capital. This app will enable traders to make more informed decisions, save time, and minimize potential losses, all through an intuitive and user-friendly interface.
-The development of the Smart Trading Eland application is planned as follows:
+The development of the Smart Trading Eland application is planned as follows  :
 
 Phase 1: Research and Planning (June 2023 - July 2023)
 - Market research and identification of user needs
